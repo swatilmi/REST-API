@@ -1,0 +1,6 @@
+INSERT INTO PRODUCT(name,price) VALUES ('MOBILE',20000);
+INSERT INTO PRODUCT(name,price) values('LAPTOP',30000);
+INSERT INTO PRODUCT(name,price) values('TABLET',10000);
+
+COMMIT;
+
